@@ -1,7 +1,8 @@
 # 123pan-Android端安装包仓库
 123pan Android software collection 123云盘安卓客户端软件仓库<br>
 PC客户端软件仓库：https://github.com/Fishtoucher6/123pan-PC<br>
-注意：本仓库非官方，由热心123用户开设，另附123云盘资源分享仓库链接🔗：https://github.com/WYAYZM/123-cloud-disk
+注意：本仓库非官方，由热心123用户开设，客户端也非开源，只是安装包收集<br>
+另附123云盘资源分享仓库链接🔗：https://github.com/WYAYZM/123-cloud-disk
 
 # 公告
 【2023.02.22 ***BreakingChange：会员功能上线***】

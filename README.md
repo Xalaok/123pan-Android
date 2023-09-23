@@ -1,12 +1,12 @@
 # 123pan-Android端安装包仓库
 
 123pan Android software collection 123云盘安卓客户端软件仓库  
-PC客户端软件仓库：<https://github.com/Fishtoucher6/123pan-PC>  
+PC客户端软件仓库：<https://github.com/Xalaok/123pan-PC>  
 注意：本仓库非官方，由热心123用户开设，另附123云盘资源分享仓库链接🔗：<https://github.com/WYAYZM/123-cloud-disk>
 
 ## 公告
 
-目前 123 云盘 PC 端最新版 1.2.0 （2023/09/01 更新），Android 端最新版 2.2.0（2023/08/30 更新）  
+目前 123 云盘 PC 端最新版 1.3.2 （2023/09/22 更新），Android 端最新版 2.3.1（2023/09/22 更新）  
 Mac 端（预计 2023 下半年上线）和微信小程序正在开发中。  
 目前音视频分享以及直链下载功能已经向会员开放  
 WebDAV 同步盘也在开发计划中  
